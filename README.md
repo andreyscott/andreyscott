@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="error.jpg" alt="cover" />
 </div>
 
-<h1 align="left">Hi there, I'm Andrey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h1 align="left">Hi there, I'm Andrew <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 <h3 align="left"> I am a Frontend Developer. I love coding, writing, Games and traveling. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: Edo State, Nigeria</h5>
@@ -19,6 +19,10 @@
 
 </p>
 </div>
+
+### Spotify Playing from codeSTACKr🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <p align='left'>
