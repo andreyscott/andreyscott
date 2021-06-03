@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
 
-<h1 align="left">Hi there, I'm Andrew <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h3 align="left">Hi there, I'm Andrew  width = 35px> </h3>
 <h3 align="left"> I am a Frontend  JavaScript Developer. I love coding, writing, Games and traveling. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: Edo State, Nigeria</h5>
