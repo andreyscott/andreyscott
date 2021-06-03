@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h1 align="left">Hi there, I'm Andrew <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 <h3 align="left"> I am a Frontend  JavaScript Developer. I love coding, writing, Games and traveling. </h3>
