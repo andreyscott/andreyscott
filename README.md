@@ -1,7 +1,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" />
 
 <h3 align="left">Hi there, I'm Andrew </h3>
-<h3 align="left"> I'm a Frontend  JavaScript Developer. I love coding, writing, Games and traveling. </h3>
+<h3 align="left"> I'm a Frontend  JavaScript Developer. I love coding, writing, Games and traveling.
+<bold>Currently learning React Native🤖</bold> </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: Edo State, Nigeria</h5>
 
@@ -45,7 +46,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><img src="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Andrey's Github Stats"></a>
 
-<br><br>
+<br>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
 
