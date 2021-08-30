@@ -42,7 +42,7 @@
 
 <h2>Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=282a36" alt="Andrey's Top Langs"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36" alt="Andrey's Top Langs"></a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><img src="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Andrey's Github Stats"></a>
 
