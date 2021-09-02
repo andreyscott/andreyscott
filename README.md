@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" />
 
 <h3 align="left">Hi there, I'm Andrew </h3>
-<h3 align="left"> I'm a Frontend  JavaScript Developer. I love coding, writing, Games and traveling.
+<h3 align="left"> I'm a Frontend  JavaScript Developer. Are you A skilled developer in need of a job? send me a DM
 <bold>Currently learning React Native🤖</bold> </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: Edo State, Nigeria</h5>
@@ -40,9 +40,7 @@
 </p>
 <br>
 
-<h2>Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36" alt="Andrey's Top Langs"></a>
+<h2>Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='45px'> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36" alt="Andrey's Top Langs"></a></h2>
 
 <a href="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><img src="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Andrey's Github Stats"></a>
 
