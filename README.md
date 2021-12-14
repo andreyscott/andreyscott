@@ -41,10 +41,8 @@
 </p>
 <br>
 
-<h2> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36" alt="Andrey's Top Langs"></a></h2>
-
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><img src="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Andrey's Github Stats"></a>
-<br> -->
+<h2> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36" alt="Andrey's Top Langs"></a> <a href="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><img src="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Andrey's Github Stats"></a>
+<br> </h2>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'></h2>
 
