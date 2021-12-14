@@ -1,4 +1,6 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="270" />
+
+<!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
 <h3 align="left">Hi there, I'm Andrew </h3>
 <h3 align="left"> I'm a Front-end specalist Web Developer.
@@ -41,7 +43,7 @@
 </p>
 <br>
 
-<h2 display='flex'> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36" alt="Andrey's Top Langs"></a> <a href="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><img src="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Andrey's Github Stats"></a>
+<h2 display='flex'> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36" alt="Andrey's Top Langs"></a> <a href="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><img src="https://github-readme-stats.vercel.app/api?username=andreyscott&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Andrey's Github Stats" width="220"></a>
 <br> </h2>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'></h2>
