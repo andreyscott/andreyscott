@@ -14,7 +14,7 @@
 <a href = 'https://instagram.com/andrayscott'> <img width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://www.github.com/andreyscott'> <img width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45px"><p align='right'>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott*3)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
 
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ='30px'> </h2>
 
