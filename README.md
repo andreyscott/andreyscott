@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="270" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="240" />
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
@@ -7,7 +7,6 @@
 <bold>With some React Native experince 🤖</bold> </h3>
 <h5 align="left">📍 SomeWhere in: Africa </h5>
 <h3 align="left">Are you a developer In need of a job? Send me a DM👇</h3>
-
 <div size='20px'> 
 <h3 align='left'> Connect with me <a href = 'https://www.linkedin.com/in/andrew-irorere-b63a601b8/"'> <img width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/Andreyscott5'> <img width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
