@@ -1,9 +1,3 @@
-<div display='flex' align="right"> <img alt="GIF" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="240" />
-
-<a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" width="400" alt="Andrew Irorere's Dev Card"/></a>
-
-</div>
-
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
 <h3 align="left">Hi there, I'm Andrew </h3>
@@ -18,6 +12,12 @@
 <a href = 'https://www.github.com/andreyscott'> <img width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45px"><p align='right'>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
+
+<div display='flex' align="right"> <img alt="GIF" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="240" />
+
+<a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" width="400" alt="Andrew Irorere's Dev Card"/></a>
+
+</div>
 
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ='30px'> </h2>
 
