@@ -1,5 +1,5 @@
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
-
+<div display="flex">
 <h3 align="left">Hi there, I'm Andrew </h3>
 <h3 align="left"> I'm a Front End JavaScript Specalist.
 <bold>With some React Native experince 🤖</bold> </h3>
@@ -17,6 +17,7 @@
 
 <a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" width="400" alt="Andrew Irorere's Dev Card"/></a>
 
+</div>
 </div>
 
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ='30px'> </h2>
