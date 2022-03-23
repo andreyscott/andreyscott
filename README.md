@@ -4,11 +4,16 @@
 This  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
+ <div align='center'>
+ <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+ </div>
+
  <br/>
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" height="290px" align="right" alt="Andrew Irorere's Dev Card"/></a>
 
 - 🙋‍♂️ All about me is at **[My Website](https://andrey-profile.web.app/)**
 
@@ -27,6 +32,8 @@ Here are some ideas to get you started: -->
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -71,6 +78,10 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyscott&" alt="andrey" />
 </div>
 
+<h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)</h2>
+
  <!-- new read me template  above -->
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="240" />
@@ -88,8 +99,6 @@ Here are some ideas to get you started: -->
 <a href = 'https://twitter.com/Andreyscott5'> <img width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://instagram.com/_ai.tech'> <img width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://www.github.com/andreyscott'> <img width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45px"><p align='right'>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
 
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ='30px'> </h2>
 
@@ -118,7 +127,7 @@ Here are some ideas to get you started: -->
 </p>
 <br>
 
-<h2 display='flex'> <a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" width="300" alt="Andrew Irorere's Dev Card"/></a> 
+<h2 display='flex'> 
  
  <div style="display: flex; flex-direction: column;">
 <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'>
