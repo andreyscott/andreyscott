@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Andrew Irorere</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Andrew/h1>
 
 <!--
 This  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning `NEST.js`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate on `Dev Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started: -->
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I Spend most of my time playing video games
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started: -->
 <img alt="Github" src="https://img.shields.io/badge/-Github-F05032?style=flat-square&logo=github&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Firebase" src=" https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase&logoColour=yellow" height="25px"/>
+ <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase&logoColour=yellow" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 
 </p>
