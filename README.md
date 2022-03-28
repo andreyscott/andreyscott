@@ -5,11 +5,13 @@ This  is a ✨ _special_ ✨ repository because its `README.md` (this file) appe
 Here are some ideas to get you started: -->
 
  <div align='center'>
- <img  src="./thoughtworks-gif_dribbble.gif" height="270px"/>
+ <img  src="./thoughtworks-gif_dribbble.gif" height="280px"/>
 
  </div>
 
  <br/>
+
+###🚀 Achieve your goals, no matter what's going on around you Remember that it's supposed to be hard. Just Never stop trying🚀
 
 ## 👨🏻‍💻 About Me:
 
