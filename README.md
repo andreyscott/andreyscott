@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 
  <br/>
 
-###🚀 Achieve your goals, no matter what's going on around you Remember that it's supposed to be hard. Just Never stop trying🚀
+### 🚀 Achieve your goals, no matter what's going on around you Remember that it's supposed to be hard. Just Never stop trying🚀
 
 ## 👨🏻‍💻 About Me:
 
