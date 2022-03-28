@@ -85,11 +85,13 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andreyscott&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyscott&" alt="andrey" />
 
-                   <!-- jokes -->
-
   <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=solarized-light)</h2>
+![Jokes Card](https://readme-jokes.vercel.app/api?)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%ffffff&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%ffffff&codeColor=%23f9c74f)
+
+</h2>
 
 </div>
 
