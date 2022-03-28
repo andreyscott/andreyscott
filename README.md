@@ -84,11 +84,14 @@ Here are some ideas to get you started: -->
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andreyscott&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyscott&" alt="andrey" />
+
+                   <!-- jokes -->
+
+  <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=solarized-light)</h2>
+
 </div>
-
-<h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)</h2>
 
  <!-- new read me template  above -->
 
