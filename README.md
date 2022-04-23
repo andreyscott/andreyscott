@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 <a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" height="390px" align="right" alt="Andrew Irorere's Dev Card"/></a>
 
-- 🙋‍♂️ All about me is at **[My Website](https://andrey-profile.web.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://andreyscott.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started: -->
 <!-- <p><a href="https://andrey-profile.web.app" target="_blank"><img alt="Github" src="https://img.shields.io/badge/?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> -->
 <p>
  <a href="https://twitter.com/andreyscott5" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/andrew-irorere" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
- <a href="https://www.instagram.com/_ai.dev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+ <a href="https://www.instagram.com/itsandreydev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 🤝 Support Me:
