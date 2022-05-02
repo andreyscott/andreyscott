@@ -5,7 +5,7 @@ This  is a ✨ _special_ ✨ repository because its `README.md` (this file) appe
 Here are some ideas to get you started: -->
 
  <div align='center'>
- <img  src="./source.gif" height="280px"/>
+ <img  src="./beard.gif" height="280px"/>
 
  </div>
 
@@ -19,11 +19,11 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://andreyscott.vercel.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m alway working on `Something Intresting`.
 
-- 🌱 I’m currently learning `NEST.js`
-
-- 👯 I’m looking to collaborate on `Dev Projects`
+- 👯 I’m hoping to collaborate on more `Dev Projects`
+-
+- 🌱 I’m currently mastering `NEST.js` and `TypeScript`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I Spend most of my time playing video games
+- ⚡ Fun fact: I would like to spend most of my time playing video games
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
 
@@ -86,11 +86,10 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andreyscott&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyscott&" alt="andrey" />
 
-  <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'>
+</div>
+<h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)</h2>
-
-</div>
 
  <!-- new read me template  above -->
 
