@@ -76,7 +76,7 @@ Here are some ideas to get you started: -->
  <a href="https://www.instagram.com/itsandreydev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
-## 🤝Support Me:
+## 🤝 Support Me:
 
 <a href="https://www.buymeacoffee.com/andreyscott" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andreyscott&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyscott&" alt="andrey" />
 
-  <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' >
+  <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'  width='27px'>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)</h2>
 
