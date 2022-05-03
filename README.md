@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 <a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" height="390px" align="right" alt="Andrew Irorere's Dev Card"/></a>
 
-- 🙋‍♂️ All about me is at **[My Website](https://andreyscott.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://andrey-profile.web.app/)**
 
 - 🔭 I’m alway working on `Something Intresting`.
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andreyscott&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyscott&" alt="andrey" />
 
-  <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'  width='27px'>
+  <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'  width='45px'>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)</h2>
 
