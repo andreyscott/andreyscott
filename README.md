@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Andrew</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="7px"> I'm Andrew</h1>
 
 <!--
 This  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,9 @@ Here are some ideas to get you started: -->
 
  <br/>
 
-## 🚀 Achieve your goals, no matter what's going on around you Remember that it's supposed to be hard. Just Never stop trying🚀
+<!-- ## 🚀 Achieve your goals, no matter what's going on around you Remember that it's supposed to be hard. Just Never stop trying🚀 -->
+
+## 🔥🔥 SET YOUR HEART ABLAZE 🔥🔥
 
 ## 👨🏻‍💻 About Me:
 
@@ -85,7 +87,7 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andreyscott&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyscott&" alt="andrey" />
 
-  <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'  width='45px'>
+  <h2>Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'  width='9px'>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)</h2>
 
