@@ -8,10 +8,8 @@ Here are some ideas to get you started: -->
 
  <div align='center'>
  <!-- gif -->
- <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="300"/>
+ <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" height="300"/>
  </div>
-
- <iframe src="https://giphy.com/embed/GRVM7bxdn7yEFWTN6i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-chill-office-work-from-home-GRVM7bxdn7yEFWTN6i">via GIPHY</a></p>
 
  <br/>
 
@@ -94,9 +92,11 @@ Here are some ideas to get you started: -->
 
 <div id="github_stats" align="center">
 
-[![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyscott&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyscott&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
-[![Sudip's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=redical&hide_border=true)](#!)
+[![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=redical&hide_border=true)](#!)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=redical&hide_border=true)
 
 </div>
 
@@ -112,8 +112,6 @@ Here are some ideas to get you started: -->
 </h2>
 
 </div> -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
 
 <!-- new github status -->
 
