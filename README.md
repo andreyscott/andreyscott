@@ -1,3 +1,4 @@
+   <!-- Andrey github readme -->
 <h1 align="center">Hello I'm Andrew 🐱‍👤</h1>
 <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="7px"> -->
 
@@ -6,8 +7,11 @@ This  is a ✨ _special_ ✨ repository because its `README.md` (this file) appe
 Here are some ideas to get you started: -->
 
  <div align='center'>
- <img  src="./beard.gif" height="280px"/>
+ <!-- gif -->
+ <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="300"/>
  </div>
+
+ <iframe src="https://giphy.com/embed/GRVM7bxdn7yEFWTN6i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-chill-office-work-from-home-GRVM7bxdn7yEFWTN6i">via GIPHY</a></p>
 
  <br/>
 
@@ -84,16 +88,34 @@ Here are some ideas to get you started: -->
 
 ## 📊 My GitHub Data:
 
-<div align="center">
+|                                                                                                            .                                                                                                            |                                                                             .                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreyscott&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&ring=DD2727&currStreakNum=00DD3DC2&background=000000)](#!) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&theme=vision-friendly-dark&hide_border=true)](#!) |
+
+<div id="github_stats" align="center">
+
+[![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyscott&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+
+[![Sudip's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=redical&hide_border=true)](#!)
+
+</div>
+
+<!-- ## 📊 My GitHub Data old: -->
+
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andreyscott&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyscott&" alt="andrey" />
 
-  <h2>Programming Humor for you 
+  <h2>Programming Humor for you
   <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height='2px' width='1px'>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)</h2>
+</h2>
 
-</div>
+</div> -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+
+<!-- new github status -->
 
  <!-- new read me template  above -->
 
