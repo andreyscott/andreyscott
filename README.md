@@ -8,7 +8,9 @@ Here are some ideas to get you started: -->
 
  <div align='center'>
  <!-- gif -->
- <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" height="300"/>
+ <!-- link to the app.webp gif -->
+
+ <img src="./app.webp" height="300"/>
  </div>
 
  <br/>
@@ -96,7 +98,7 @@ Here are some ideas to get you started: -->
 
 [![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=redical&hide_border=true)](#!)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=redical&hide_border=true)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=redical)
 
 </div>
 
