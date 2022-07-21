@@ -96,9 +96,9 @@ Here are some ideas to get you started: -->
 
 [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyscott&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
-[![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=redical&hide_border=true)](#!)
+[![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=radical&hide_border=true)](#!)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=redical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 </div>
 
