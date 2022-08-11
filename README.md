@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
- <img src="./app.webp" height="300"/>
+ <img src="./music.gif" height="300"/>
  </div>
 
  <br/>
@@ -98,7 +98,7 @@ Here are some ideas to get you started: -->
 
 [![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=redical&hide_border=true)](#!)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radicalredical&hide_border=true)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 </div>
 
