@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
- <img src="./app.webp" height="300"/>
+ <img src="./music.gif" height="300"/>
  </div>
 
  <br/>
