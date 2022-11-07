@@ -4,13 +4,15 @@
 
 <!--
 This  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->s
+Here are some ideas to get you started: -->
 
  <div align='center'>
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
- <img src="./music.gif" height="300"/>
+<img src="./music.gif"
+  height="300"/>
+
  </div>
 
  <br/>
