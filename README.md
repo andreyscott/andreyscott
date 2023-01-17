@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
-<img src="./multi.gif"
+<img src="./app.webp"
   height="300"/>
 
  </div>
@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 
 <a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" height="390px" align="right" alt="Andrew Irorere's Dev Card"/></a>
 
-- 🙋‍♂️ All about me is at **[My Website](https://andrey-profile.web.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://andreyscott.vercel.app/)**
 
 - 🔭 I’m alway working on `Something Intresting`.
 
