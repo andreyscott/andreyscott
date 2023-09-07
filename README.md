@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
-<img src="./bread.gif" alt="gif" width="300"
+<img src="./beard.gif" alt="gif" width="300"
   height="300"/>
 
  </div>
@@ -21,8 +21,8 @@ Here are some ideas to get you started: -->
 
 <div align='center'>
 ## 🔥🔥 Always working on something fun be it Public or Private😉 🔥🔥
-# i regularly star and fork repos that i find interesting and useful so feel free to check them out
 </div>
+# i regularly star repos that i find interesting and useful so feel free to check them out
 
 ## 👨🏻‍💻 About Me:
 
