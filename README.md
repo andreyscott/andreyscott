@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
-<img src="./beard.gif" alt="gif" width="300"
+<img src="./beard.gif"
   height="300"/>
 
  </div>
@@ -19,10 +19,9 @@ Here are some ideas to get you started: -->
 
 <!-- ## 🚀 Achieve your goals, no matter what's going on around you Remember that it's supposed to be hard. Just Never stop trying🚀 -->
 
-<div align='center'>
-## 🔥🔥 Always working on something fun be it Public or Private😉 🔥🔥
-</div>
-# i regularly star repos that i find interesting and useful so feel free to check them out
+## 🔥 Always working on something be it Public or Private😉🔥
+
+# Regularly star repos that i find interesting and useful so feel free to check them out
 
 ## 👨🏻‍💻 About Me:
 
@@ -45,8 +44,11 @@ Here are some ideas to get you started: -->
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I would like to spend most of my time playing video games
+<!--
+[Visitors]
+(https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
+ -->
 
 ## 🛠️ Technologies and Tools I use:
 
