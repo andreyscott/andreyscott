@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 ## 🔥 Always working on something be it Public or Private😉🔥
 
-# Regularly star repos that i find interesting and useful so feel free to check them out
+- Regularly star repos that i find interesting and useful so feel free to check them out
 
 ## 👨🏻‍💻 About Me:
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m alway working on `Something Intresting`.
 
-- 👯 I’m hoping to collaborate on more `Dev Projects`.
+- 👯 I’m hoping to collaborate on more `Open-source Projects`.
 
 - 🌱 I’m currently mastering `NEXT.js` and `Flutter`.
 
