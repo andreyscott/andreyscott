@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
-<img src="./app.webp"
+<img src="./bread.gif" alt="gif" width="300"
   height="300"/>
 
  </div>
@@ -19,19 +19,22 @@ Here are some ideas to get you started: -->
 
 <!-- ## 🚀 Achieve your goals, no matter what's going on around you Remember that it's supposed to be hard. Just Never stop trying🚀 -->
 
-## 🔥🔥 SET YOUR HEART ABLAZE 🔥🔥
+<div align='center'>
+## 🔥🔥 Always working on something fun be it Public or Private😉 🔥🔥
+# i regularly star and fork repos that i find interesting and useful so feel free to check them out
+</div>
 
 ## 👨🏻‍💻 About Me:
 
 <a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" height="390px" align="right" alt="Andrew Irorere's Dev Card"/></a>
 
-- 🙋‍♂️ All about me is at **[My Website](https://andreyscott.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://andreydev.com)**
 
 - 🔭 I’m alway working on `Something Intresting`.
 
 - 👯 I’m hoping to collaborate on more `Dev Projects`.
 
-- 🌱 I’m currently mastering `NEST.js` and `TypeScript`.
+- 🌱 I’m currently mastering `NEXT.js` and `Flutter`.
 
 - 🤔 I’m looking for help with `Competitive Programming`.
 
