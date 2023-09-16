@@ -103,11 +103,15 @@ Here are some ideas to get you started: -->
 
 [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyscott&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
-[![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=dracula&hide_border=true)](#!)
+<!-- [![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=dracula&hide_border=true)](#!) -->
+
+[![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreyscott&theme=github-compact)](https://github.com/andreyscott/github-readme-activity-graph)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 </div>
+
+<img src="https://codestats-readme.avior.me/api/top-langs/?username=andreyscott&theme=chartreuse-dark" alt="akshaw's code::stats stats">
 
 <!-- ## 📊 My GitHub Data old: -->
 
