@@ -111,7 +111,7 @@ Here are some ideas to get you started: -->
 
 </div>
 
-<img src="https://codestats-readme.avior.me/api/top-langs/?username=andreyscott&theme=chartreuse-dark" alt="Andreys's code::stats stats">
+<!-- <img src="https://codestats-readme.avior.me/api/top-langs/?username=andreyscott&theme=chartreuse-dark" alt="Andreys's code::stats stats"> -->
 
 [![Andreys code::stats stats](https://codestats-readme.avior.me/api?username=andreyscott)](https://github.com/Aviortheking/codestats-readme)
 
