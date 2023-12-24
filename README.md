@@ -113,10 +113,20 @@ Here are some ideas to get you started: -->
 
 </div>
 <p align = "center">
-  <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyscott&theme=github_dark" /></a>
+  <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyscott&theme=github_dark"
+   /></a>
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=andreyscott&label=Profile%20views&color=0e75b6&style=flat" width="158" height="28" alt="andreyscott"/>
+
+  <a href="https://github.com/andreyscott?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/andreyscott"/></a>
+
+  <img src="https://img.shields.io/github/followers/andreyscott?label=Followers&style=social" width="140" height="28" alt="GitHub Badge"> 
+</p>
 
 </div>
 
