@@ -100,13 +100,15 @@ Here are some ideas to get you started: -->
 <div id="github_stats" align="center">
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andreyscott&theme=highcontrast&hide_border=false)<br/>
+<!-- is there a blue theme for the above github-readme-stats -->
 
 <a href="#Andreyscott-title">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Andreyscott&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="Andreyscott" align="left" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Andreyscott&show_icons=true&title_color=2a50f7&icon_color=2a50f7&text_color=ffffff&bg_color=040404&border_color=2a50f7" alt="Andreyscott" align="left" />
+
 </a>
 
 <a href="#Andreyscott-title">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyscott&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Andrey" align="right" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyscott&title_color=2a50f7&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=2a50f7" alt="Andrey" align="right" />
 </a>
 
 </div>
@@ -114,8 +116,6 @@ Here are some ideas to get you started: -->
   <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyscott&theme=github_dark" /></a>
 </p>
 
-<!- -->
-blue theme
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
 
 </div>
@@ -131,7 +131,7 @@ blue theme
 
 <!-- [![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=dracula&hide_border=true)](#!) -->
 
-<!-- [![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreyscott&theme=github-compact)](https://github.com/andreyscott/github-readme-activity-graph) --> -->
+<!-- [![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreyscott&theme=github-compact)](https://github.com/andreyscott/github-readme-activity-graph) -->
 
 <!-- <img src="https://codestats-readme.avior.me/api/top-langs/?username=andreyscott&theme=chartreuse-dark" alt="Andreys's code::stats stats"> -->
 
