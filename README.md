@@ -93,8 +93,34 @@ Here are some ideas to get you started: -->
 
 <a href="https://www.buymeacoffee.com/andreyscott" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-## 📊 My GitHub Data:
+## 📊Github Data Summary:
 
+<p><a href="https://quine.sh?utm_source=widgets&utm_campaign=Andreyscott"><img align="center" height="290" width="150%" src="https://stats.quine.sh/Andreyscott/github?theme=dark"/></a>
+
+<div id="github_stats" align="center">
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Andreyscott&theme=highcontrast&hide_border=false)<br/>
+
+<a href="#Andreyscott-title">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Andreyscott&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="Andreyscott" align="left" />
+</a>
+
+<a href="#Andreyscott-title">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyscott&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Andrey" align="right" />
+</a>
+
+</div>
+<p align = "center">
+  <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyscott&theme=github_dark" /></a>
+</p>
+
+<!- -->
+blue theme
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+
+</div>
+
+<!--
 |                                                                                                            .                                                                                                            |                                                                             .                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreyscott&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&ring=DD2727&currStreakNum=00DD3DC2&background=000000)](#!) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyscott&layout=compact&theme=vision-friendly-dark&hide_border=true)](#!) |
@@ -105,11 +131,7 @@ Here are some ideas to get you started: -->
 
 <!-- [![Andrey's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=andreyscott&theme=dracula&hide_border=true)](#!) -->
 
-[![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreyscott&theme=github-compact)](https://github.com/andreyscott/github-readme-activity-graph)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-</div>
+<!-- [![Andrey's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreyscott&theme=github-compact)](https://github.com/andreyscott/github-readme-activity-graph) --> -->
 
 <!-- <img src="https://codestats-readme.avior.me/api/top-langs/?username=andreyscott&theme=chartreuse-dark" alt="Andreys's code::stats stats"> -->
 
