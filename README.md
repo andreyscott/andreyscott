@@ -33,9 +33,9 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m hoping to collaborate on more `Open-source Projects`.
 
-- 🌱 I’m currently mastering `NEXT.js` and `Flutter`.
+- 🌱 I’m currently mastering `Flutter` and `CyberSecurity`.
 
-- 🤔 I’m looking for help with `Competitive Programming`.
+- 🤔 I’m looking for help with `DSA`.
 
 - 📍 Location: Somewhere in Africa
 
