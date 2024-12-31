@@ -12,9 +12,7 @@ Here are some ideas to get you started: -->
 
 <img src="./source.gif"
 alt="Andrew Irorere"
-width="100%"
-
-height="300"/>
+width="100%" height="300"/>
 
  </div>
 
