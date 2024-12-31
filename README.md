@@ -10,8 +10,11 @@ Here are some ideas to get you started: -->
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
-<img src="./beard.gif"
-  height="300"/>
+<img src="./source.gif"
+alt="Andrew Irorere"
+width="100%"
+
+height="300"/>
 
  </div>
 
@@ -120,7 +123,7 @@ Here are some ideas to get you started: -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=andreyscott&label=Profile%20views&color=0e75b6&style=flat" width="158" height="28" alt="andreyscott"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=andreyscott&label=Profile%20views&color=0e75b6&style=flat" width="158" height="28" alt="andreyscott"/> -->
 
   <a href="https://github.com/andreyscott?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/andreyscott"/></a>
