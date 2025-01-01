@@ -34,17 +34,17 @@ width="100%" height="300"/>
 
 - 👯 I’m hoping to collaborate on more `Open-source Projects`.
 
-- <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="20px" height="15" > I’m currently mastering `Flutter` and `CyberSecurity`.
+- <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="20px" height="20" > I’m currently mastering `Flutter` and `CyberSecurity`.
 
 - 🤔 I’m looking for help with `DSA`.
 
-- 📍 Location: Somewhere in Africa
+- 📍 Location: Somewhere in Africa.
 
 - 💬 Ask me about anything, Except The meaning of life :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I would like to spend most of my time playing video games
+- ⚡ Fun fact: I would rather spend most of my days playing video games.
 <!--
 [Visitors]
 (https://visitor-badge.glitch.me/badge?page_id=andreyscott.andreyscott)
@@ -80,6 +80,8 @@ width="100%" height="300"/>
 <img alt="Github" src="https://img.shields.io/badge/-Github-F05032?style=flat-square&logo=github&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25px"/>
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25px"/>
  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase&logoColour=yellow" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25px" />
@@ -91,7 +93,6 @@ width="100%" height="300"/>
   <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" height="25px"/>
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25px"/>
   <img alt="CentOs" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" height="25px"/>
-
 
 </p>
 
