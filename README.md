@@ -1,5 +1,5 @@
    <!-- Andrey github readme -->
-<h1 align="center">Hello I'm Andrew 🐱‍👤</h1>
+<h1 align="center">Hello I'm Andrew 🥷</h1>
 <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="7px"> -->
 
 <!--
@@ -34,7 +34,7 @@ width="100%" height="300"/>
 
 - 👯 I’m hoping to collaborate on more `Open-source Projects`.
 
-- 🌱 I’m currently mastering `Flutter` and `CyberSecurity`. <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="10px" height="10" ><br>
+- <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="20px" height="15" > I’m currently mastering `Flutter` and `CyberSecurity`.
 
 - 🤔 I’m looking for help with `DSA`.
 
@@ -114,20 +114,25 @@ width="100%" height="300"/>
 
 </div>
 <p align = "center">
-  <img width = "100%" height ="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyscott&theme=github_dark"
+  <img width="100%" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyscott&theme=github_dark"
    /></a>
 </p>
+ 
+ <p align = "center">
+  <img width="100%" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreyscott&theme=github_dark"
+   />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
 
-<p align="center"> 
+</p>
+
   <!-- <img src="https://komarev.com/ghpvc/?username=andreyscott&label=Profile%20views&color=0e75b6&style=flat" width="158" height="28" alt="andreyscott"/> -->
 
-  <a href="https://github.com/andreyscott?tab=repositories&sort=stargazers">
+  <!-- <a href="https://github.com/andreyscott?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/andreyscott"/></a>
 
   <img src="https://img.shields.io/github/followers/andreyscott?label=Followers&style=social" width="140" height="28" alt="GitHub Badge"> 
-</p>
+-->
 
 </div>
 
