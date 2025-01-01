@@ -34,7 +34,7 @@ width="100%" height="300"/>
 
 - 👯 I’m hoping to collaborate on more `Open-source Projects`.
 
-- 🌱 I’m currently mastering `Flutter` and `CyberSecurity`.
+- 🌱 I’m currently mastering `Flutter` and `CyberSecurity`. <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="10px" height="10" ><br>
 
 - 🤔 I’m looking for help with `DSA`.
 
