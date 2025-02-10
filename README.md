@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
  <!-- gif -->
  <!-- link to the app.webp gif -->
 
-<img src="./source.gif"
+<img src="./beard.gif"
 alt="Andrew Irorere"
 width="100%" height="300"/>
 
@@ -28,7 +28,7 @@ width="100%" height="300"/>
 
 <a href="https://app.daily.dev/AndreyScott"><img src="https://api.daily.dev/devcards/9d330d22d197425cb2abff118b0f3f13.png?r=0m9" height="390px" align="right" alt="Andrew Irorere's Dev Card"/></a>
 
-- 🙋‍♂️ All about me is at **[My Website](https://andreydev.com)**
+- 🙋‍♂️ All about me is at **[My Website](https://www.andreydev.com)**
 
 - 🔭 I’m alway working on `Something Intresting`.
 
