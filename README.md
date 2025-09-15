@@ -52,18 +52,6 @@ width="100%" height="300"/>
  -->
 
 
- <!-- the below badge is from layer5 and is too large  -->
-
-## 🏆 Badges:
-
-<table align="right" border="0">
- <tr><td align="center">
-<img width="150px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png"/>
-
-<p><a href="https://cloud.layer5.io/user/96183f93-7d7f-43c3-a67a-80732b1c5719?tab=badges">See all my badges</a><br /><a href="https://badges.layer5.io">Get yours here</a></p>
-  </td></tr>
-</table>
-
 
 
  <!-- [![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/96183f93-7d7f-43c3-a67a-80732b1c5719?tab=badges&badge=first-design) -->
@@ -115,6 +103,14 @@ width="100%" height="300"/>
 </p>
 
 ## ❤️ Let's get connected:
+
+<table align="right" border="0">
+ <tr><td align="center">
+<img width="150px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png"/>
+
+<p><a href="https://cloud.layer5.io/user/96183f93-7d7f-43c3-a67a-80732b1c5719?tab=badges">See all my badges</a><br /><a href="https://badges.layer5.io">Get yours here</a></p>
+  </td></tr>
+</table>
 
 <!-- <p><a href="https://andrey-profile.web.app" target="_blank"><img alt="Github" src="https://img.shields.io/badge/?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> -->
 <p>
