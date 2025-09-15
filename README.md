@@ -51,9 +51,12 @@ width="100%" height="300"/>
 
  -->
 
+ [![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/96183f93-7d7f-43c3-a67a-80732b1c5719?tab=badges&badge=first-design)
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
+
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
